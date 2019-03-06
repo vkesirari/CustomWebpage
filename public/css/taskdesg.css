@@ -1,0 +1,10 @@
+html,body{
+
+background: #ebebeb;
+color: #FFF;
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+font-family: 'Numans', sans-serif;
+background: url("/img/cc.jpg"); 
+}
